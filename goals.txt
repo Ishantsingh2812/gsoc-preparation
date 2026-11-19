@@ -1,0 +1,7 @@
+My GSoC 2027 Goals
+
+1. Improve Java programming skills.
+2. Learn Git and GitHub deeply.
+3. Understand open-source projects.
+4. Make meaningful contributions.
+5. Submit a strong GSoC proposal.
